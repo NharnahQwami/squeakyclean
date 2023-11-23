@@ -1,0 +1,3 @@
+piexif
+python-docx
+PyPDF2
